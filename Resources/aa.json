@@ -1,0 +1,14 @@
+{
+  "Method": "Post",
+  "URL": "/v2/api/advertorial/list",
+  "Values": [{
+    "articleId": "1",
+    "articleTitle": "我是软文-1",
+    "coverImgUrl": "http://www.web1992.cn/images_pub/pub_11.jpg",
+    "avoutMemo": "for test",
+    "pageView": 123,
+    "praiseTimes": 1000,
+    "isPraise": false
+
+  }]
+}
